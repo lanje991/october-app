@@ -10,6 +10,7 @@ function App() {
     <>
     <Greetings name="Mohamed" surname="Abdirahman" lastname="Seid"/>
     <Header/>
+    
 
     </>
   )
